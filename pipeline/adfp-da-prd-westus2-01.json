@@ -1,0 +1,8 @@
+{
+	"name": "adfp-da-prd-westus2-01",
+	"properties": {
+		"annotations": [],
+		"lastPublishTime": "2022-11-15T17:43:17Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

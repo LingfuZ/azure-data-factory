@@ -1,0 +1,12 @@
+{
+	"name": "adfds-da-prd-westus2-testvalues-01",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "adfls-da-prd-westus2-sqldb-01",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable"
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
